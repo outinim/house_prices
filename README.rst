@@ -14,8 +14,7 @@ This notebook was written for a kaggle competition on a house prices regression 
 References
 ==========
 
-`House Prices: Advanced Regression Techniques 
- <https://www.kaggle.com/c/house-prices-advanced-regression-techniques>`_
+`House Prices: Advanced Regression Techniques <https://www.kaggle.com/c/house-prices-advanced-regression-techniques>`_
 
 Don't hesitate to go check on the kaggle site to leave a comment on my notebook_.
 
@@ -24,3 +23,4 @@ Don't hesitate to go check on the kaggle site to leave a comment on my notebook_
 Notebook
 ========
 
+`Regression <https://github.com/outinim/kaggle_house/blob/master/house_price.ipynb>`_

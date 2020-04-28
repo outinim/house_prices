@@ -1,13 +1,13 @@
+###########################
+Kaggle notebooks repository
+###########################
 
-#########################################
-House prices regression - a kaggle compet
-#########################################
+:Author: Mehdi Outini <mehdi.outini@gmail.com>
+
 
 *************************************************************************
 Using regression, XGBoosting and neural network to predict house prices
 *************************************************************************
-
-:Author: Mehdi Outini <mehdi.outini@gmail.com>
 
 This notebook was written for a kaggle competition on a house prices regression problem.
 	
@@ -20,7 +20,9 @@ Don't hesitate to go check on the kaggle site to leave a comment on my notebook_
 
 .. _notebook: https://www.kaggle.com/outinimehdi/ house-prices-regression-xgboosting-top-17
 
-Notebook
-========
+Notebooks
+=========
+
+
 
 `Regression <https://github.com/outinim/kaggle_house/blob/master/house_price.ipynb>`_

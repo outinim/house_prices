@@ -25,7 +25,7 @@ With 79 explanatory variables describing several aspects of residential homes, w
 * I used a weighted average of Lasso, ElasticNet, Ridge, XGBoost and Gradient Boosting Regressor
 * The focus of this project was mostly on feature engineering and machine learning models (hyperparameters tuning)
 
-<img src="https://github.com/outinim/kaggle_notebooks/tree/master/houses_regression/bikes.png" width="70%"/>
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png" width="70%"/>
 
 ---
 <a name="flowers"/></a>
@@ -39,7 +39,7 @@ with the MobileNetV2 model and demonstrates the efficiency of fine tuning.
 * Participation on the dataset [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition)
 * The focus of this project was mostly computer vision (deep learning, transfer learning)
 
-<img src="https://github.com/outinim/kaggle_notebooks/tree/master/flower_recognition/flowers.jpg" width="70%"/>
+<img src="https://raw.githubusercontent.com/outinim/portfolio/master/flower_recognition/flowers.jpg" width="35%"/>
 
 ---
 <a name="bikes"/></a>
@@ -53,4 +53,4 @@ with the MobileNetV2 model and demonstrates the efficiency of fine tuning.
 * Participation on the competition [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
 * The focus of this project was mostly data vizualisationn and machine learning applied to time series
 
-<img src="https://github.com/outinim/kaggle_notebooks/tree/master/bike_hours/bikes.png" width="70%"/>
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/3948/media/bikes.png" width="70%"/>

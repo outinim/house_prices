@@ -1,24 +1,28 @@
-## Data Science Portfolio 
+# Data Science Portfolio 
 
-Author: Mehdi Outini <mehdi.outini@gmail.com>
+**Author**: Mehdi Outini <mehdi.outini@gmail.com>
 
 This portfolio is made of several projects showing the work I done in order to develop my data science/machine learning skills. 
 
 
 ## Table of Contents  
-<!--ts-->
-   * [Predicting Housing Prices](#housing)
-   * [Flowers Recognition](#flowers)
-   * [Bike Sharing Demand](#bikes)
-<!--te-->
+
+   - [Predicting Housing Prices](#housing)
+   - [Flowers Recognition](#flowers)
+   - [Bike Sharing Demand](#bikes)
 
 ## Projects
 
 ---
-<a name="housing"/></a>
-###  [Predicting Housing Prices](https://github.com/outinim/kaggle_notebooks/tree/master/houses_regression)
-[Github](https://github.com/outinim/kaggle_notebooks/blob/master/houses_regression/house_price.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/outinim/kaggle_notebooks/blob/master/houses_regression/house_price.ipynb)
 
+<a name="housing"/></a>
+
+<<<<<<< HEAD
+=======
+###  [Predicting Housing Prices](https://github.com/outinim/kaggle_notebooks/tree/master/houses_regression)
+[Github](https://github.com/outinim/kaggle_notebooks/blob/master/houses_regression/house_price.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/outinim/kaggle_notebooks/blob/master/houses_regression/house_price.ipynb) | [kaggle](https://www.kaggle.com/outinimehdi/house-prices-regression-xgboosting-top-17)
+
+>>>>>>> 04e9da6b91c0c31cfcaf33da943d3313fecbdbbc
 * Participation of the kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/)
 * With 79 explanatory variables describing several aspects of residential homes, we use advanced regression techniques like ElasticNet, random forest, gradient boosting but also multi-layer perceptron to predict the final house price of each home. I used a weighted average of Lasso, ElasticNet, Ridge, XGBoost and Gradient Boosting Regressor to get the best predictor
 * The focus of this project was mostly on feature engineering and machine learning models (hyperparameters tuning)
@@ -26,10 +30,15 @@ This portfolio is made of several projects showing the work I done in order to d
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png" width="70%"/>
 
 ---
-<a name="flowers"/></a>
-###  [Flowers Recognition](https://github.com/outinim/kaggle_notebooks/tree/master/flower_recognition)
-[Github](https://github.com/outinim/kaggle_notebooks/blob/master/flower_recognition/cnn_mobilenetv2.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/outinim/kaggle_notebooks/blob/master/flower_recognition/cnn_mobilenetv2.ipynb)
 
+<a name="flowers"/></a>
+
+<<<<<<< HEAD
+=======
+###  [Flowers Recognition](https://github.com/outinim/kaggle_notebooks/tree/master/flower_recognition)
+[Github](https://github.com/outinim/kaggle_notebooks/blob/master/flower_recognition/cnn_mobilenetv2.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/outinim/kaggle_notebooks/blob/master/flower_recognition/cnn_mobilenetv2.ipynb) | [kaggle](https://www.kaggle.com/outinimehdi/cnn-fine-tuning-classification-vgg-mobilenet)
+
+>>>>>>> 04e9da6b91c0c31cfcaf33da943d3313fecbdbbc
 * Project for the course Deep Learning
 * Participation on the dataset [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition)
 * The goal was to classify flower images among 5 species. We use transfer learning 
@@ -39,7 +48,9 @@ with the MobileNetV2 model and demonstrates the efficiency of fine tuning.
 <img src="https://raw.githubusercontent.com/outinim/portfolio/master/flower_recognition/flowers.jpg" width="35%"/>
 
 ---
+
 <a name="bikes"/></a>
+
 ###  [Bike Sharing Demand](https://github.com/outinim/kaggle_notebooks/tree/master/bike_hours)
 [Github](https://github.com/outinim/kaggle_notebooks/blob/master/bike_hours/predictions.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/outinim/kaggle_notebooks/blob/master/bike_hours/predictions.ipynb)
 
